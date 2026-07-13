@@ -1,0 +1,23 @@
+{
+  "name": "مساعد الخطط الدراسية الذكي",
+  "short_name": "مساعد الخطط",
+  "description": "مستكشف شامل وتفاعلي للخطط الدراسية والأنشطة والضوابط وفق الإصدار السادس.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#0d5c73",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
